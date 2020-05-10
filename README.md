@@ -10,4 +10,4 @@ Presence channels can even show who is online.
 
 ## This repository
 
-This repository is used for public issue tracking and to store the documentation (Wiki).
+This repository is used for public issue tracking.
